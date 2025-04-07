@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 &nbsp;<div align="center">
-[<img src="https://github-readme-xi-dusky.vercel.app/api/run-spotify-status" alt="Your alt what" width="400" />](https://open.spotify.com/user/DivyangKuntar)
+[![Spotify](https://spotify-readme-novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31ozx53q3vuswt6x7qgfzrxijqoe?si=af92237981f1414b)
 </div>
 
 &nbsp;<div align="center">
